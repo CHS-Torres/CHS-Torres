@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Aldrin Torres
-
 ## About Me
+ <img src="profileGit.png" width="100" align="left" style="margin-right: 15px;">
+
 I am a teacher at **Centennial High School**, passionate about inspiring students through technology and real-world applications.
 
 - 🎧 I owned my first portable cassette player growing up
@@ -12,7 +13,10 @@ I am a teacher at **Centennial High School**, passionate about inspiring student
 - 🚴 Hobbies:
   - Riding my bicycle
   - Playing chess
-![alt text](chess_anime.gif)
+
+<img src="chess_anime.gif" width="120" align="center" style="margin-center: 20px;">
+
+
 ## What I Enjoy
 I enjoy sharing my experience in **technology and mobility**, and constantly exploring new products and gadgets. I like evaluating their benefits and drawbacks, and understanding how innovation impacts our everyday lives.
 
