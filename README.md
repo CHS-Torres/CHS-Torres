@@ -14,7 +14,7 @@ I am a teacher at **Centennial High School**, passionate about inspiring student
   - Riding my bicycle
   - Playing chess
 
-<img src="chess_anime.gif" width="120" align="center" style="margin-center: 20px;">
+<img src="chess_anime.gif" width="300" align="center" style="margin-center: 20px;">
 
 
 ## What I Enjoy
