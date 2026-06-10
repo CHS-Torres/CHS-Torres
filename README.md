@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Aldrin Torres
 
-<!--
-**CHS-Torres/CHS-Torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a teacher at **Centennial High School**, passionate about inspiring students through technology and real-world applications.
 
-Here are some ideas to get you started:
+- 🎧 I owned my first portable cassette player growing up
+- 🌍 Hometown: Mexico
+- 💻 Interests:
+  - Computer Science
+  - New Technology Trends
+  - FinTech
+- 🚴 Hobbies:
+  - Riding my bicycle
+  - Playing chess
+![alt text](chess_anime.gif)
+## What I Enjoy
+I enjoy sharing my experience in **technology and mobility**, and constantly exploring new products and gadgets. I like evaluating their benefits and drawbacks, and understanding how innovation impacts our everyday lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+Feel free to reach out:  
+**torresa2@fultonschools.org**
